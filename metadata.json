@@ -1,0 +1,5 @@
+{
+  "name": "Nurul Salah",
+  "description": "A comprehensive prayer management application with real-time prayer times, notifications, and daily progress tracking.",
+  "requestFramePermissions": ["geolocation", "notifications"]
+}
